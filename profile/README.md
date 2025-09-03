@@ -1,4 +1,4 @@
-# tomeeto
+# ~tomeeto~ rebranded to plancake!
 
 [tomeeto](http://tomeeto.cs.rpi.edu/) is a scheduling website that solves the logistics problem of figuring out when everyone is available to meet. Our goal was to simplify the process of communication with a simple and intuitive interface, where one person sends out a link to potential meeting times, and compiles the possible meeting times according to everyone’s availability.
 
